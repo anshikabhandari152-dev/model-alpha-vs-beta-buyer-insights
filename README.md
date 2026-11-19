@@ -60,7 +60,7 @@ The analysis answers three questions:
 ---
 ## Tech Stack
 
-Python · pandas · NumPy · SciPy · matplotlib / seaborn · Jupyter · GenAI tools for translation and analysis support
+Python · pandas · NumPy  · Jupyter · GenAI tools
 
 ---
 ## Limitations
